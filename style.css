@@ -701,3 +701,20 @@ footer span a:hover{
     border-radius: 0.25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
+.social-media{
+    size: 10cm
+}
+.social-icon{
+    margin-right: 1mm;
+}
+.fab{
+    font-size: xx-large;
+}
+.fa-github{
+    color: black;
+}
+.fa-linkedin{
+    font-size: xx-large;
+    color: blue;
+}
+
